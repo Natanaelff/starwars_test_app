@@ -2,9 +2,9 @@
 ----------------
 
 ## 📚 Requisitos:
-.Ter Git instalado.
-.Ter o node instalado.
-.ter o expo instalado.
+.Ter Git instalado.<br>
+.Ter o node instalado.<br>
+.ter o expo instalado.<br>
 
 ## 🚀 Clone este repositório:
 $ git clone <https://github.com/Natanaelff/starwars_test_app.git>
