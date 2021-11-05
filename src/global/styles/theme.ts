@@ -12,6 +12,9 @@ export default {
     blue: '#2980b9',
     oasis: '#58B19F',
     black: '#000000',
+
+    red_two: '#c23616',
+    blue_two: '#273c75',
   },
 
   fonts: {
