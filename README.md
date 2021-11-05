@@ -1,7 +1,7 @@
 # starwars_test_app
+----------------
 
-
-# Clone este repositório
+## 🚀 Clone este repositório:
 $ git clone <https://github.com/Natanaelff/starwars_test_app.git>
 
 # Entrar no diretório:
