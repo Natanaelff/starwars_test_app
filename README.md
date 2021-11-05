@@ -1,6 +1,5 @@
-# starwars
+# starwars_test_app
 
-<h1 align="center">Nome do Projeto</h1>
 
 # Clone este repositório
 $ git clone <https://github.com/Natanaelff/starwars_test_app.git>
