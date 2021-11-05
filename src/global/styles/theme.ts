@@ -15,6 +15,8 @@ export default {
 
     red_two: '#c23616',
     blue_two: '#273c75',
+
+    green_two: '#44bd32',
   },
 
   fonts: {
