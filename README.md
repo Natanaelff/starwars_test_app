@@ -15,6 +15,9 @@ $ cd starwars_test_app
 ## 💾 Instalar as dependências:
 $ yarn
 
+## 📲 Intalando as dependências do ios:
+$ cd ios && pod install && cd ..
+
 ## 📱 Rodar a aplicação:
 $ expo start 
 
