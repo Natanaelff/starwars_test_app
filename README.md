@@ -30,6 +30,7 @@ $ expo start
 
 ## Como executar o teste
 $ depois de do expo start abra dois terminais:<br>
+. no terminal você executa o comando - $ yarn detox build -c android.emu.debug - para ser gerado a pasta build do android <br>
 . o 1 você executa yarn start<br>
 . e no segundo você executa o teste - $ yarn detox test -c android.emu.debug
 <br>
