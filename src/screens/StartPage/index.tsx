@@ -25,12 +25,12 @@ export function StartPage(){
 
   return (
    <Container>
-     <Title>Que a força esteja com você</Title>
+     <Title testID="welcome">Que a força esteja com você</Title>
 
      <Lottie source={IconAnimated} autoPlay loop />
 
      <ViewButton>
-       <Button onPress={handleHome}>
+       <Button onPress={handleHome} testID="click">
          <ButtonTitle>Entrar</ButtonTitle>
        </Button>
      </ViewButton>

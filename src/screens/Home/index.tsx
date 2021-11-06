@@ -45,7 +45,7 @@ export function Home(){
           <TextLabel>O que deseja ver em Star Wars?</TextLabel>  
         </ViewLabel>
 
-        <Button title="Personagens" color="red" onPress={handlePeoples} />
+        <Button testID="click-people" title="Personagens" color="red" onPress={handlePeoples} />
 
         <Button title="Planetas" color="green" onPress={handlePlanets} />
 

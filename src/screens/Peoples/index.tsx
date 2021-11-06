@@ -62,7 +62,7 @@ export function Peoples(){
   return (
    <Container>
       <ViewLabel>
-        <ButtonIcon onPress={handleGoBack}>
+        <ButtonIcon testID="click-goback" onPress={handleGoBack}>
           <Icon name="arrow-left" />
         </ButtonIcon>
 
