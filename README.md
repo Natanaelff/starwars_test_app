@@ -23,22 +23,22 @@ $ expo start
 <br>
 
 ## Conjunto de teste usado foi
-$ teste E2E - Detox
+. teste E2E - Detox
 
 ## Como executar o teste
-$ depois de do expo start abra dois terminais:
-. o 1 você executa yarn start
+$ depois de do expo start abra dois terminais:<br>
+. o 1 você executa yarn start<br>
 . e no segundo você executa o teste - $ yarn detox test -c android.emu.debug
 <br>
-. Para o teste funcionar precisa estar rodando no emulador do android no modelo Pixel 3a XL API 29
+. Para o teste funcionar precisa estar rodando no emulador do android no modelo Pixel 3a XL API 29<br>
 . e também o projeto startwars_test_app esteja buildado no emulador.
 <br>
 <br>
 <br>
 ## Como fazer teste usando o git-flow
-. executa no terminal o seguinte comando
-$ git flow release start 1.0
-. e para finalizar
-$ git flow release finish 1.0
+. executa no terminal o seguinte comando<br>
+$ git flow release start 1.0<br>
+. e para finalizar<br>
+$ git flow release finish 1.0<br>
 
 ## E por fim, se divirtam no App.
