@@ -32,7 +32,7 @@ $ expo start
 . no terminal você executa o comando - $ yarn detox build -c android.emu.debug - para ser gerado a pasta build do android <br>
 <br>
 : depois do expo start abra dois terminais:<br>
-. o 1 você executa yarn start<br>
+. no primeiro você executa yarn start<br>
 . e no segundo você executa o teste - $ yarn detox test -c android.emu.debug
 <br>
 . Para o teste funcionar precisa estar rodando no emulador do android no modelo Pixel 3a XL API 29<br>
